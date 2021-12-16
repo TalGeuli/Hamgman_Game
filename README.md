@@ -19,7 +19,7 @@ If the player guess the right word before the program draw the complete sketch o
 If the player could not guess the word before the Hanged Man sketch was done - the player will lose.
 
 ```
--------
+ -------
  |      |
  O
 \ /
