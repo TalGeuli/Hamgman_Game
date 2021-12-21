@@ -7,16 +7,16 @@ In this game the program will choose a word randomly and the player will try to 
 
 At first the player will choose the difficulty of the word:
 
-  1. word with at most 4 letters.
-  2. word with at least 4 letters.
+  1. A word with at most 4 letters.
+  2. A word with at least 4 letters.
 
-In each turn the player will try two guesses - one letter and one word.
+In each turn the player will have two guesses - one letter and one word.
 
-If the player guesse wrong, the program will draw one element of the Hanged Man (each letter or a word consider as one guess).
+If the player guessed wrong, the program will draw one element of the Hanged Man (each letter or a word is considered as one guess).
 
-If the player guess the right word before the program draw the complete sketch of the Hanged Man - the player will win!
+If the player guessed the right word before the program draw the complete sketch of the Hanged Man - the player wins!
 
-If the player could not guess the word before the Hanged Man sketch was done - the player will lose.
+If the player could not guess the word before the Hanged Man sketch was done - the player loses.
 
 ```
  -------
